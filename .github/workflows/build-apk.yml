@@ -23,7 +23,7 @@ jobs:
           gradle-version: 8.9
 
       - name: Unpack project
-        run: unzip -q "*.zip"
+        run: rm -rf savings-goal-android && unzip -oq "*.zip"
 
       - name: Build debug APK
         working-directory: savings-goal-android
