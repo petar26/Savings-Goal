@@ -1,3 +1,20 @@
+!! IMPORTANT!!
+This app is unsigned because I don't know how to sign an APK I'm 10 :(
+to install it:
+
+1. go to play store
+2. click profile
+3. click play protect
+4. click gear at top right in play pro. menu
+5. click toggle
+6. click pause not turn off
+7. install the app
+8. repeat steps 1-4
+9. click toggle again to resume play protect (optional but good to do)
+10. if you forget to enable again then it will enable in 24h
+11. done!
+12. enjoy!
+
 How to use Guide
 Purpose of app?
 -The purpose of this app is for you to save money,
